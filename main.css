@@ -1,0 +1,14 @@
+.profile{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer{
+    display: flex;
+    margin-inline-start: 5px;
+}
+
+.footer-3-wide{
+    align-items: center;
+    justify-content: center;
+}
